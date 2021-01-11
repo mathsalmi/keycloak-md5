@@ -12,7 +12,7 @@
 	<packaging>jar</packaging>
 
 	<properties>
-		<java.release>14</java.release>
+		<java.release>11</java.release>
 		<keycloak.version>10.0.0</keycloak.version>
 		<junit.version>5.7.0</junit.version>
 	</properties>
